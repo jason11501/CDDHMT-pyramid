@@ -10,7 +10,7 @@
 * Javascript<br>
 
 ## Quick start
-Open CocCoc or Chrome. Go to glitch.com and search hello-express. Choose 'Remix your own' button. Choose Terminal:
+Open CocCoc or Chrome browser. Go to glitch.com and search hello-express. Choose 'Remix your own' button. Choose Terminal:
 ```
 npm install three
 ```
