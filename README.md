@@ -9,6 +9,16 @@
 **Ngôn ngữ (Language):**<br>
 * Javascript<br>
 
+## Quick start
+Open CocCoc or Chrome. Go to glitch.com and search hello-express. Choose 'Remix your own' button. Choose Terminal:
+```
+npm install three
+```
+Make sure src in <head> is
+```
+<script src="/client.js" defer></script>
+```
+Then code in ./public/client.js file
 ## Result
 
 https://
