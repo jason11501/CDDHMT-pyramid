@@ -1,6 +1,6 @@
 # pyramid
 # Chuyên đề Đồ họa máy tính
-# Pyramid 3D object bằng Javascript và HTML5
+# Kim tự tháp Giza mô phỏng 3D object bằng Javascript và HTML5
 
 ## Install environments
 **Công cụ (Tool):**<br>
